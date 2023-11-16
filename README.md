@@ -1,6 +1,10 @@
 👋 Hi, I’m @eddhurst. I imagine stuff.
 
-🌱 I primarily focus on UX, working as a frontend engineer in React, a prior background in WordPress, and a smattering of C, Python and a bit of ASM thrown in for some fun side projects.
+🌱 I'm a stone carver, sea shanty fan, and UX engineer working in React. I have a prior background in WordPress, with a smattering of C, Python and a bit of ASM thrown in from some fun side projects.
+
+🎷 I maintain [smallwords](https://www.npmjs.com/package/smallwords) and co-made [Ultra Speed Words](https://play.google.com/store/apps/details?id=games.blankslate.ultraspeedwords&hl=en&gl=US)
+
+🌯 Fan of burritos, board games, and kayaking.
 
 :postbox: You can reach me on @eddhurst on most platforms, including this one.
 
